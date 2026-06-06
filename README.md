@@ -1,5 +1,6 @@
 # EX-NO-14-HASH-ALGORITHM
-
+## NAME: K NISHAL
+## REG NO: 2305001021
 ## AIM:
 To implement HASH ALGORITHM
 
@@ -71,6 +72,8 @@ int main() {
 ```
 
 ## Output:
+
+<img width="699" height="271" alt="image" src="https://github.com/user-attachments/assets/77d3a138-b5b9-4a93-b287-e17de25472c3" />
 
 
 ## Result:
